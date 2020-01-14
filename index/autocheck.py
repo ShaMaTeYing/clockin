@@ -68,7 +68,7 @@ def job():
         print("{} 今天不是工作日哦".format(datetime.datetime.now()))
         return
     print("{} 开始准备打卡".format(datetime.datetime.now()))
-    time.sleep(random.randint(1,30))
+    time.sleep(random.randint(60*1,30*60))
     autocheck = CheckIn()
     autocheck.user_check_in()
 

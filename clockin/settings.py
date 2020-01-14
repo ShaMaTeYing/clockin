@@ -116,5 +116,6 @@ USE_TZ = False
 STATIC_URL = '/static/'
 
 CRONJOBS = [
-    ('50 17 * * *', 'index.autocheck.job'),
+    ('0 18 * * *', 'index.autocheck.job'),
+    ('0 8 * * *', 'index.autocheck.job'),
 ]

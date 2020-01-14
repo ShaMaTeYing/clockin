@@ -33,7 +33,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clockin/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/clockin/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/autocheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/autocheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/forms.py" afterDir="false" />
@@ -164,7 +163,7 @@
       <workItem from="1578981982379" duration="249000" />
       <workItem from="1578989432125" duration="185000" />
       <workItem from="1578989629755" duration="1433000" />
-      <workItem from="1578991142579" duration="3132000" />
+      <workItem from="1578991142579" duration="3428000" />
     </task>
     <servers />
   </component>
