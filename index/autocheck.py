@@ -31,7 +31,7 @@ class CheckIn:
             "userPassword": "163235"
         }
         res = requests.post(url, headers=self.headers, data=json.dumps(data)).content
-        res = json.loads(res)
+        res = json.loads(res.decode('utf-8'))
         return res['data']['token']
 
     def user_check_in(self):
