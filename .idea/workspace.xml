@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bac66e1-221a-4c3e-901e-f055eb75dffb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/error" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/file2database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/header.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBinsert/spider_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectiveCourse/account/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectiveCourse/index/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectiveCourse/templates/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElectiveCourse/templates/public/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../autocheck/index/autocheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../autocheck/index/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/.idea/backendadmin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/index/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/index/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/templates/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/templates/index/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backendadmin/templates/public/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/autocheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MachineLearning/pytorch/chapter_2/CIFAR-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/get_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/get_select_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/liuzhengjin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/registration/password_change_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/registration/password_change_done.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/templates/registration/password_change_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/templates/registration/password_change_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyGUI" beforeDir="false" afterPath="$PROJECT_DIR$/../../PyGUI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Translate/.idea/Translate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Translate/.idea/Translate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Translate/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Translate/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Translate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Translate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Translate/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Translate/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Translate/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Translate/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../face_recognition" beforeDir="false" afterPath="$PROJECT_DIR$/../../face_recognition" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WNUDrJq6ni1MKZZTWc6Rwn8IUG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\Django\clockin\index" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="clockin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="clockin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\py36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bac66e1-221a-4c3e-901e-f055eb75dffb" name="Default Changelist" comment="" />
+      <created>1578981979293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578981979293</updated>
+      <workItem from="1578981982379" duration="249000" />
+      <workItem from="1578989432125" duration="185000" />
+      <workItem from="1578989629755" duration="1433000" />
+      <workItem from="1578991142579" duration="917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578991473482">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" width="1089" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578991473482" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1578991447574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578991447574" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578992093986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578992093986" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578992093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578992093985" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578992093985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578992093985" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578992093986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578992093986" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1578991787979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578991787979" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1578991167089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578991167089" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/clockin$manage.coverage" NAME="manage Coverage Results" MODIFIED="1578992069623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
