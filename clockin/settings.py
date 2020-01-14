@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'index',
+    'django_crontab',
 ]
 
 MIDDLEWARE = [
@@ -113,3 +114,7 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+
+CRONJOBS = [
+    ('50 17 * * *', 'index.autocheck.job'),
+]

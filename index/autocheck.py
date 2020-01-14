@@ -60,6 +60,7 @@ class CheckIn:
 
 def job():
     # 如果当前不是工作日，则不打卡
+    print("开始执行打卡程序")
     work_day = ['2020-01-14', '2020-01-15', '2020-01-16', '2020-01-17', '2020-01-18',
                 '2020-01-19', '2020-01-20']
     print("今天是 {}".format(datetime.date.today()))
@@ -67,7 +68,7 @@ def job():
         print("{} 今天不是工作日哦".format(datetime.datetime.now()))
         return
     print("{} 开始准备打卡".format(datetime.datetime.now()))
-    time.sleep(random.randint(60 * 1, 60 * 30))
+    time.sleep(random.randint(1,30))
     autocheck = CheckIn()
     autocheck.user_check_in()
 
