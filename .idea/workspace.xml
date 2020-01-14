@@ -24,16 +24,13 @@
       <change afterPath="$PROJECT_DIR$/../backendadmin/templates/index/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../backendadmin/templates/index/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../backendadmin/templates/public/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/autocheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../MachineLearning/pytorch/chapter_2/CIFAR-10.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Test/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Test/get_excel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Test/get_select_list.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Test/liuzhengjin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Test/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/account/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mysite/account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/account/forms.py" afterDir="false" />
@@ -164,7 +161,7 @@
       <workItem from="1578981982379" duration="249000" />
       <workItem from="1578989432125" duration="185000" />
       <workItem from="1578989629755" duration="1433000" />
-      <workItem from="1578991142579" duration="1743000" />
+      <workItem from="1578991142579" duration="1973000" />
     </task>
     <servers />
   </component>
